@@ -38,4 +38,4 @@ Feel free to explore my folders and check out what I'm currently working on!
 > *"The expert in anything was once a beginner."* 
 
 ---
-_Crafted with by Pavan._
+_Crafted by Pavan._
